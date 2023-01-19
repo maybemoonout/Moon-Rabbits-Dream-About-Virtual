@@ -39,21 +39,21 @@
     --custom-text: "FINN ASTRA";
 
     /* General Colors */
-    --border-color: #da4a60;
-    --drag-gradient: #fdefef, #f2c9c9;
-    --bg-gradient1: #FDEFEF;
-    --bg-gradient2: #F4DFD0;
-    --bg-gradient3: #CDBBA7;
-    --name-bg: #ebb9b9;
+    --border-color: ##3d332d;
+    --drag-gradient: #ECE3DB, #9F8369;
+    --bg-gradient1: #C8B298;
+    --bg-gradient2: #9F8369;
+    --bg-gradient3: #7E6353;
+    --name-bg: #4a3e37;
 
     /* Every Blue in Discord */
     --blue-hue: 335;
     --mentioned-hue: 210;
 
     /* Buttons Colors */
-    --close-color: #da5169;
-    --max-color: #ffdf5b;
-    --min-color: #00a0cb;
+    --close-color: #3b2a20;
+    --max-color: #4f4138;
+    --min-color: #a8958a;
 
     /* Other options */
     --border-width: 3px;
