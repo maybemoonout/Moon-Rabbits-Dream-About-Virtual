@@ -36,15 +36,15 @@
 /* Colors */
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "FINN ASTRA";
 
     /* General Colors */
     --border-color: #da4a60;
-    --drag-gradient: #e8c4d3, #e39ba7;
-    --bg-gradient1: #e297b2;
-    --bg-gradient2: #c0b4d5;
-    --bg-gradient3: #54b5de;
-    --name-bg: #d95b72;
+    --drag-gradient: #fdefef, #f2c9c9;
+    --bg-gradient1: #FDEFEF;
+    --bg-gradient2: #F4DFD0;
+    --bg-gradient3: #CDBBA7;
+    --name-bg: #ebb9b9;
 
     /* Every Blue in Discord */
     --blue-hue: 335;
